@@ -1,8 +1,8 @@
-# ProdigyTech Data Science Internship - Task 01
+# Prodigy InfoTech Data Science Internship - Task 01
 
 ## Task Description
 
-Task 01 of the ProdigyTech Data Science Internship involves creating visualizations to represent categorical or continuous distribution. The visualizations are developed using Tableau, focusing on creating bar charts and histograms to effectively illustrate the data.
+Task 01 of the Prodigy InfoTech Data Science Internship involves creating visualizations to represent categorical or continuous distribution. The visualizations are developed using Tableau, focusing on creating bar charts and histograms to effectively illustrate the data.
 
 ## Visualizations
 
